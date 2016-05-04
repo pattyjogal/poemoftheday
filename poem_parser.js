@@ -32,8 +32,9 @@ function populatePoems(){
         }
     }
     var randomPoet = poets[Math.floor(Math.random() * poets.length)];
-    var randomPoem = poems[randomPoet][Math.floor(Math.random() * poems.length)];
+    var randomPoem = poems[randomPoet][Math.floor(Math.random() * poems[randomPoet].length)];
     poem = readTextFile("frost/" + randomPoem + ".txt");
+    console.log(poems[randomPoet].length);
 }
 
 function readTextFile(file)
