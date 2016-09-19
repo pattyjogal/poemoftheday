@@ -2,15 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0224cb0e-d257-4d29-be98-53a71efb7998" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/options.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/whitespace_killer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/poemoftheday.iml" afterPath="$PROJECT_DIR$/.idea/poemoftheday.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manifest.json" afterPath="$PROJECT_DIR$/manifest.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/poem_parser.js" afterPath="$PROJECT_DIR$/poem_parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/popup.html" afterPath="$PROJECT_DIR$/popup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Boundless_Moment.txt" afterPath="$PROJECT_DIR$/frost/A_Boundless_Moment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Brook_in_the_City.txt" afterPath="$PROJECT_DIR$/frost/A_Brook_in_the_City.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Cliff_Dwelling.txt" afterPath="$PROJECT_DIR$/frost/A_Cliff_Dwelling.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Considerable_Speck.txt" afterPath="$PROJECT_DIR$/frost/A_Considerable_Speck.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Dream_Pang.txt" afterPath="$PROJECT_DIR$/frost/A_Dream_Pang.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Girls_Garden.txt" afterPath="$PROJECT_DIR$/frost/A_Girls_Garden.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Late_Walk.txt" afterPath="$PROJECT_DIR$/frost/A_Late_Walk.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Line-Storm_Song.txt" afterPath="$PROJECT_DIR$/frost/A_Line-Storm_Song.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Minor_Bird.txt" afterPath="$PROJECT_DIR$/frost/A_Minor_Bird.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Patch_of_Old_Snow.txt" afterPath="$PROJECT_DIR$/frost/A_Patch_of_Old_Snow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Peck_of_Gold.txt" afterPath="$PROJECT_DIR$/frost/A_Peck_of_Gold.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Prayer_in_Spring.txt" afterPath="$PROJECT_DIR$/frost/A_Prayer_in_Spring.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Question.txt" afterPath="$PROJECT_DIR$/frost/A_Question.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Servant_to_Servants.txt" afterPath="$PROJECT_DIR$/frost/A_Servant_to_Servants.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Soldier.txt" afterPath="$PROJECT_DIR$/frost/A_Soldier.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/A_Time_to_Talk.txt" afterPath="$PROJECT_DIR$/frost/A_Time_to_Talk.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Acquainted_with_the_Night.txt" afterPath="$PROJECT_DIR$/frost/Acquainted_with_the_Night.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/After_Apple-Picking.txt" afterPath="$PROJECT_DIR$/frost/After_Apple-Picking.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/An_Encounter.txt" afterPath="$PROJECT_DIR$/frost/An_Encounter.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/An_Old_Mans_Winter_Night.txt" afterPath="$PROJECT_DIR$/frost/An_Old_Mans_Winter_Night.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Asking_for_Roses.txt" afterPath="$PROJECT_DIR$/frost/Asking_for_Roses.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Bereft.txt" afterPath="$PROJECT_DIR$/frost/Bereft.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Birches.txt" afterPath="$PROJECT_DIR$/frost/Birches.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Blue-Butterfly_Day.txt" afterPath="$PROJECT_DIR$/frost/Blue-Butterfly_Day.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Bond_and_Free.txt" afterPath="$PROJECT_DIR$/frost/Bond_and_Free.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Canis_Major.txt" afterPath="$PROJECT_DIR$/frost/Canis_Major.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Carpe_Diem.txt" afterPath="$PROJECT_DIR$/frost/Carpe_Diem.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Christmas_Trees.txt" afterPath="$PROJECT_DIR$/frost/Christmas_Trees.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Come_In.txt" afterPath="$PROJECT_DIR$/frost/Come_In.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Desert_Places.txt" afterPath="$PROJECT_DIR$/frost/Desert_Places.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Dust_of_Snow.txt" afterPath="$PROJECT_DIR$/frost/Dust_of_Snow.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Fire_and_Ice.txt" afterPath="$PROJECT_DIR$/frost/Fire_and_Ice.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Fireflies_in_the_Garden.txt" afterPath="$PROJECT_DIR$/frost/Fireflies_in_the_Garden.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Fragmentary_Blue.txt" afterPath="$PROJECT_DIR$/frost/Fragmentary_Blue.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Ghost_House.txt" afterPath="$PROJECT_DIR$/frost/Ghost_House.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Going_for_Water.txt" afterPath="$PROJECT_DIR$/frost/Going_for_Water.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Home_Burial.txt" afterPath="$PROJECT_DIR$/frost/Home_Burial.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Hyla_Brook.txt" afterPath="$PROJECT_DIR$/frost/Hyla_Brook.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/In_a_Disused_Graveyard.txt" afterPath="$PROJECT_DIR$/frost/In_a_Disused_Graveyard.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Into_My_Own.txt" afterPath="$PROJECT_DIR$/frost/Into_My_Own.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/It_Bids_Pretty_Fair.txt" afterPath="$PROJECT_DIR$/frost/It_Bids_Pretty_Fair.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Love_and_a_Question.txt" afterPath="$PROJECT_DIR$/frost/Love_and_a_Question.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Meeting_and_Passing.txt" afterPath="$PROJECT_DIR$/frost/Meeting_and_Passing.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Mending_Wall.txt" afterPath="$PROJECT_DIR$/frost/Mending_Wall.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Mowing.txt" afterPath="$PROJECT_DIR$/frost/Mowing.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/My_Butterfly.txt" afterPath="$PROJECT_DIR$/frost/My_Butterfly.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/My_November_Guest.txt" afterPath="$PROJECT_DIR$/frost/My_November_Guest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Nothing_Gold_Can_Stay.txt" afterPath="$PROJECT_DIR$/frost/Nothing_Gold_Can_Stay.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Now_Close_the_Windows.txt" afterPath="$PROJECT_DIR$/frost/Now_Close_the_Windows.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/October.txt" afterPath="$PROJECT_DIR$/frost/October.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/On_Looking_Up_by_Chance_at_the_Constellations.txt" afterPath="$PROJECT_DIR$/frost/On_Looking_Up_by_Chance_at_the_Constellations.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Once_by_the_Pacific.txt" afterPath="$PROJECT_DIR$/frost/Once_by_the_Pacific.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Out_Out_-_.txt" afterPath="$PROJECT_DIR$/frost/Out_Out_-_.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Range-Finding.txt" afterPath="$PROJECT_DIR$/frost/Range-Finding.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Reluctance.txt" afterPath="$PROJECT_DIR$/frost/Reluctance.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Rose_Pogonias.txt" afterPath="$PROJECT_DIR$/frost/Rose_Pogonias.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Spring_Pools.txt" afterPath="$PROJECT_DIR$/frost/Spring_Pools.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Stars.txt" afterPath="$PROJECT_DIR$/frost/Stars.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Stopping_by_Woods_on_a_Snowy_Evening.txt" afterPath="$PROJECT_DIR$/frost/Stopping_by_Woods_on_a_Snowy_Evening.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Storm_Fear.txt" afterPath="$PROJECT_DIR$/frost/Storm_Fear.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Armful.txt" afterPath="$PROJECT_DIR$/frost/The_Armful.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Axe_Helve.txt" afterPath="$PROJECT_DIR$/frost/The_Axe_Helve.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Bear.txt" afterPath="$PROJECT_DIR$/frost/The_Bear.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Code.txt" afterPath="$PROJECT_DIR$/frost/The_Code.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Cow_in_Apple_Time.txt" afterPath="$PROJECT_DIR$/frost/The_Cow_in_Apple_Time.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Death_of_the_Hired_Man.txt" afterPath="$PROJECT_DIR$/frost/The_Death_of_the_Hired_Man.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Hill_Wife.txt" afterPath="$PROJECT_DIR$/frost/The_Hill_Wife.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Lockless_Door.txt" afterPath="$PROJECT_DIR$/frost/The_Lockless_Door.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Mountain.txt" afterPath="$PROJECT_DIR$/frost/The_Mountain.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Need_of_Being_Versed_in_Country_Things.txt" afterPath="$PROJECT_DIR$/frost/The_Need_of_Being_Versed_in_Country_Things.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Oven_Bird.txt" afterPath="$PROJECT_DIR$/frost/The_Oven_Bird.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Pasture.txt" afterPath="$PROJECT_DIR$/frost/The_Pasture.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Road_Not_Taken.txt" afterPath="$PROJECT_DIR$/frost/The_Road_Not_Taken.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Runaway.txt" afterPath="$PROJECT_DIR$/frost/The_Runaway.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Secret_Sits.txt" afterPath="$PROJECT_DIR$/frost/The_Secret_Sits.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Self-Seeker.txt" afterPath="$PROJECT_DIR$/frost/The_Self-Seeker.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Star-Splitter.txt" afterPath="$PROJECT_DIR$/frost/The_Star-Splitter.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Telephone.txt" afterPath="$PROJECT_DIR$/frost/The_Telephone.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Tuft_of_Flowers.txt" afterPath="$PROJECT_DIR$/frost/The_Tuft_of_Flowers.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Vanishing_Red.txt" afterPath="$PROJECT_DIR$/frost/The_Vanishing_Red.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Witch_of_Coos.txt" afterPath="$PROJECT_DIR$/frost/The_Witch_of_Coos.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/The_Wood-Pile.txt" afterPath="$PROJECT_DIR$/frost/The_Wood-Pile.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/To_Earthward.txt" afterPath="$PROJECT_DIR$/frost/To_Earthward.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/To_the_Thawing_Wind.txt" afterPath="$PROJECT_DIR$/frost/To_the_Thawing_Wind.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Tree_at_my_Window.txt" afterPath="$PROJECT_DIR$/frost/Tree_at_my_Window.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Two_Look_at_Two.txt" afterPath="$PROJECT_DIR$/frost/Two_Look_at_Two.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Waiting.txt" afterPath="$PROJECT_DIR$/frost/Waiting.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/West_Running_Brook.txt" afterPath="$PROJECT_DIR$/frost/West_Running_Brook.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frost/Wind_and_Window_Flower.txt" afterPath="$PROJECT_DIR$/frost/Wind_and_Window_Flower.txt" />
     </list>
     <ignored path="poemoftheday.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,7 +106,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -32,57 +115,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="manifest.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/popup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="options.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/options.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc;n#saveOptions#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="poem_parser.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/poem_parser.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#43#0" expanded="false" />
-                <marker date="1463111982739" expanded="true" signature="1425:1439" placeholder="..." />
-                <marker date="1463111982739" expanded="true" signature="1508:1545" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="A_Cliff_Dwelling.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Cliff_Dwelling.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Considerable_Speck.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Considerable_Speck.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Soldier.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Soldier.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Time_to_Talk.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frost/A_Time_to_Talk.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Boundless_Moment.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Boundless_Moment.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Brook_in_the_City.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Brook_in_the_City.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Dream_Pang.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Dream_Pang.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Line-Storm_Song.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Line-Storm_Song.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Question.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Question.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A_Patch_of_Old_Snow.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frost/A_Patch_of_Old_Snow.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -96,6 +223,7 @@
         <option value="tsconfig.json" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -111,6 +239,15 @@
         <option value="$PROJECT_DIR$/popup.html" />
         <option value="$PROJECT_DIR$/options.js" />
         <option value="$PROJECT_DIR$/poem_parser.js" />
+        <option value="$PROJECT_DIR$/frost/The_Pasture.txt" />
+        <option value="$PROJECT_DIR$/frost/The_Oven_Bird.txt" />
+        <option value="$PROJECT_DIR$/frost/A_Prayer_in_Spring.txt" />
+        <option value="$PROJECT_DIR$/frost/A_Question.txt" />
+        <option value="$PROJECT_DIR$/frost/A_Soldier.txt" />
+        <option value="$PROJECT_DIR$/frost/A_Boundless_Moment.txt" />
+        <option value="$PROJECT_DIR$/frost/Stars.txt" />
+        <option value="$PROJECT_DIR$/frost/After_Apple-Picking.txt" />
+        <option value="$PROJECT_DIR$/scripts/whitespace_killer.py" />
       </list>
     </option>
   </component>
@@ -125,9 +262,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1932" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -160,8 +298,46 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PoemOfTheDay" />
+              <option name="myItemId" value="poemoftheday" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poemoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poemoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poemoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poemoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poemoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poemoftheday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frost" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -169,14 +345,95 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="database.main" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts/whitespace_killer.py" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="poemoftheday" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -195,6 +452,137 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\chocolatey\bin\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="poemoftheday" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/whitespace_killer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -210,33 +598,40 @@
       <option name="presentableId" value="Default" />
       <updated>1461974238615</updated>
       <workItem from="1463106096584" duration="5886000" />
+      <workItem from="1473278178854" duration="2122000" />
+      <workItem from="1473967368217" duration="1109000" />
+      <workItem from="1474294795460" duration="101000" />
+      <workItem from="1474295148144" duration="10000" />
+      <workItem from="1474311691130" duration="74000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5886000" />
+    <option name="totallyTimeSpent" value="9302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.073068894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1557112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Heroku" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33182332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -255,141 +650,387 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/popup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poem_parser.js">
+    <entry file="file://$PROJECT_DIR$/frost/Meeting_and_Passing.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-            <marker date="1463111982739" expanded="true" signature="1425:1439" placeholder="..." />
-            <marker date="1463111982739" expanded="true" signature="1508:1545" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/popup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poem_parser.js">
+    <entry file="file://$PROJECT_DIR$/frost/Wind_and_Window_Flower.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-            <marker date="1463111982739" expanded="true" signature="1425:1439" placeholder="..." />
-            <marker date="1463111982739" expanded="true" signature="1508:1545" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/popup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poem_parser.js">
+    <entry file="file://$PROJECT_DIR$/frost/West_Running_Brook.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-            <marker date="1463111982739" expanded="true" signature="1425:1439" placeholder="..." />
-            <marker date="1463111982739" expanded="true" signature="1508:1545" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/frost/Waiting.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Two_Look_at_Two.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Tree_at_my_Window.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/To_the_Thawing_Wind.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/To_Earthward.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Wood-Pile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Witch_of_Coos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Vanishing_Red.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Tuft_of_Flowers.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Telephone.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Star-Splitter.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Self-Seeker.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Secret_Sits.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Runaway.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Road_Not_Taken.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Pasture.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Oven_Bird.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Need_of_Being_Versed_in_Country_Things.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Mountain.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Lockless_Door.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Hill_Wife.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Bear.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/The_Code.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Range-Finding.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Out_Out_-_.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Rose_Pogonias.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Come_In.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
+    <entry file="file://$PROJECT_DIR$/frost/Blue-Butterfly_Day.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/popup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/options.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="247">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc;n#saveOptions#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/poem_parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="494">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
-            <element signature="e#0#43#0" expanded="false" />
-            <marker date="1463111982739" expanded="true" signature="1425:1439" placeholder="..." />
-            <marker date="1463111982739" expanded="true" signature="1508:1545" placeholder="..." />
+            <marker date="1473278156450" expanded="true" signature="1425:1439" ph="..." />
+            <marker date="1473278156450" expanded="true" signature="1508:1545" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Servant_to_Servants.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Stars.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Prayer_in_Spring.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Carpe_Diem.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/Acquainted_with_the_Night.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/After_Apple-Picking.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/whitespace_killer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Boundless_Moment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Brook_in_the_City.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Cliff_Dwelling.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Considerable_Speck.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Dream_Pang.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Line-Storm_Song.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Patch_of_Old_Snow.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Question.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Soldier.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frost/A_Time_to_Talk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
